@@ -1,0 +1,31 @@
+h1,p {
+    background-color: blue;
+}
+
+body {
+    background-color: aquamarine;
+}
+
+.tittle {
+    background-color: brown;
+}
+
+a[href] {
+    color: aqua;
+}
+
+article p :first-of-type {
+    color: red;
+}
+
+p:hover{
+    background-color: blueviolet;
+}
+
+p::first-line{
+    color: aqua;
+}
+
+p::first-letter{
+    font-size: 40px;
+}
