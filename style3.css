@@ -1,0 +1,41 @@
+h1{
+    color: red;
+}
+
+h1{
+    color: blue;
+}
+
+#tittle {
+    color: red;
+}
+
+.a.b.c.d.e.f.g.h.i.j.k {
+    color: blue;
+}
+
+li{
+    color: red;
+}
+
+/* li a[href*="google"]{
+    color:inherit;
+}
+
+li a[href*="youtube"]{
+    color: initial;
+}
+
+li a[href*="apple"]{
+    color: unset;
+} */
+
+div {
+    background-color: blueviolet;
+    border: 3px solid black;
+}
+
+.fix{
+    all:unset
+}
+
