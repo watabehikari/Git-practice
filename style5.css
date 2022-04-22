@@ -1,0 +1,23 @@
+.container {
+    width: 1000px;
+    background-color: coral;
+    display: flex;
+}
+.item {
+    height: 200px;
+}
+
+
+
+
+
+.item1 {
+    background-color: pink;
+    flex-grow: 1;
+    flex-basis: 400px;
+}
+.item2 {
+    background-color: skyblue;
+    flex-grow: 1;
+    flex-basis: 200px;
+}
